@@ -2,7 +2,7 @@
 Helpful resources for all the stuff
 
 ##ES6 & ES7
-* [The Evolution of Javascript](https://www.youtube.com/watch?v=DqMFX91ToLw)
+* [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
 
 ##Redux
 * [30 Video Lesson Course on Redux by the Author](https://egghead.io/series/getting-started-with-redux)
