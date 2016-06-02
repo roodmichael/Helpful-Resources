@@ -13,5 +13,8 @@ Put some stuff here.
 ##Tech Conferences
 [1997 WWDC Fireside Chat with Steve Jobs](https://www.youtube.com/watch?v=6iACK-LNnzM)
 
+##Publications
+[How Do Committees Invent? by Melvin Conway](http://www.melconway.com/Home/Committees_Paper.html)
+
 ##日本語
 [WWWJDIC](http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C)
