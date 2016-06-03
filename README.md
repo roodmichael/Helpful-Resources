@@ -9,6 +9,7 @@ Helpful resources for all the stuff
 
 ##Redux
 * [30 Video Lesson Course on Redux by the Author](https://egghead.io/series/getting-started-with-redux)
+* [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 
 ##Tech Talks
 * Put some stuff here.
