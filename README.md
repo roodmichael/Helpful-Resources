@@ -21,5 +21,8 @@ Helpful resources for all the stuff
 * [How Do Committees Invent? by Melvin Conway](http://www.melconway.com/Home/Committees_Paper.html)
 * [Managing the Development of Large Software Sysyems by Dr. Winston Royce](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 
+##Career Related
+* [Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
+
 ##日本語
 * [WWWJDIC](http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C)
