@@ -19,7 +19,7 @@ Helpful resources for all the stuff
 
 ##Publications
 * [How Do Committees Invent? by Melvin Conway](http://www.melconway.com/Home/Committees_Paper.html)
-* [Managing the Development of Large Software Sysyems by Dr. Winston Royce](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
+* [Managing the Development of Large Software Systems by Dr. Winston Royce](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 * [What is 'Site Reliability Engineering?' - Ben Treynor](https://landing.google.com/sre/interview/ben-treynor.html)
 
 ##Career Related
