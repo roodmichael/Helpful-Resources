@@ -11,8 +11,8 @@ Helpful resources for all the stuff
 * [30 Video Lesson Course on Redux by the Author](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 
-##Tech Talks
-* Put some stuff here.
+##Tech Talks / Podcasts
+* [Javascript Jabber](https://devchat.tv/js-jabber)
 
 ##Tech Conferences
 * [1997 WWDC Fireside Chat with Steve Jobs](https://www.youtube.com/watch?v=6iACK-LNnzM)
