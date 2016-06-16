@@ -1,9 +1,10 @@
 # Helpful-Resources
 Helpful resources for all the stuff
 
-##General Engineering
+##General Engineering Books & Articles
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#writingdesignpatterns)
 * [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
+* [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 
 ##ES6 & ES7
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
