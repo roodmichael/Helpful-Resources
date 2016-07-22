@@ -6,6 +6,7 @@ Helpful resources for all the stuff
 * [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 * [The Art of Agile by James Shore](http://www.jamesshore.com/Agile-Book/)
+* [A good thread on agile books](http://programmers.stackexchange.com/questions/7859/is-there-a-canonical-book-on-agile)
 
 ##ES6 & ES7
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
