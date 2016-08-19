@@ -31,6 +31,7 @@ Helpful resources for all the stuff
 
 ##Career Related
 * [Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
+* [Coding Without Rules](https://codewithoutrules.com/)
 
 ##日本語
 * [WWWJDIC](http://www.edrdg.org/cgi-bin/wwwjdic/wwwjdic?1C)
