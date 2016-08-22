@@ -8,7 +8,7 @@ Helpful resources for all the stuff
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.ca/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_1?s=books&ie=UTF8&qid=1471746064&sr=1-1&keywords=quiet+the+power+of+introverts+in+a+world+that+can%27t+stop+talking)
 
 ## General Engineering Articles
-* [Google Browser Security Handbook](file:///Users/rood/Downloads/Google%20Browser%20Security%20Handbook.pdf)
+* [Google Browser Security Handbook](https://storage.googleapis.com/google-code-attachments/browsersec/issue-8/comment-8/Google%20Browser%20Security%20Handbook.pdf)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#writingdesignpatterns)
 * [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
