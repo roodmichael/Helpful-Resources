@@ -15,6 +15,8 @@ Helpful resources for all the stuff
 * [The Art of Agile by James Shore](http://www.jamesshore.com/Agile-Book/)
 * [A good thread on agile books](http://programmers.stackexchange.com/questions/7859/is-there-a-canonical-book-on-agile)
 
+## Teams and People
+* [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0)
 ##ES6 & ES7
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
 
