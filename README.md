@@ -17,6 +17,7 @@ Helpful resources for all the stuff
 
 ## ML Related
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
+
 ## Teams and People
 * [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0)
 ##ES6 & ES7
