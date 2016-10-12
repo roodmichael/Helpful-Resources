@@ -14,13 +14,15 @@ Helpful resources for all the stuff
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 * [The Art of Agile by James Shore](http://www.jamesshore.com/Agile-Book/)
 * [A good thread on agile books](http://programmers.stackexchange.com/questions/7859/is-there-a-canonical-book-on-agile)
+* [You might not need javascript](http://youmightnotneedjs.com/)
 
 ## ML Related
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 
 ## Teams and People
 * [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0)
-##ES6 & ES7
+
+## ES6 & ES7
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
 
 ##React
