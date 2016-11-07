@@ -44,6 +44,7 @@ Helpful resources for all the stuff
 * [What is 'Site Reliability Engineering?' - Ben Treynor](https://landing.google.com/sre/interview/ben-treynor.html)
 
 ##Career Related
+* [109 Common Data Science Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
 * [Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
 * [Coding Without Rules](https://codewithoutrules.com/)
 * [System Design Interviews](https://github.com/checkcheckzz/system-design-interview)
