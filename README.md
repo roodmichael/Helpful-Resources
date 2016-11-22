@@ -32,7 +32,8 @@ Helpful resources for all the stuff
 * [30 Video Lesson Course on Redux by the Author](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 
-##Tech Talks / Podcasts
+##Tech Talks / Courses / Podcasts
+* [Computer Science Video Courses](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)
 * [Javascript Jabber](https://devchat.tv/js-jabber)
 
 ##Tech Conferences
