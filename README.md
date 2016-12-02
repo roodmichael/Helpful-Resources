@@ -34,6 +34,7 @@ Helpful resources for all the stuff
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 
 ##Tech Talks / Courses / Podcasts
+* [Cryptography 101](https://www.crypto101.io/)
 * [Computer Science Video Courses](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)
 * [Javascript Jabber](https://devchat.tv/js-jabber)
 
