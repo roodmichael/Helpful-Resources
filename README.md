@@ -22,6 +22,7 @@ Helpful resources for all the stuff
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 
 ## Teams and People
+* [Agile Manifesto](http://agilemanifesto.org/)
 * [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0)
 * [How we set up our work at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.equ5r3dss)
 
