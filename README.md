@@ -9,6 +9,7 @@ Helpful resources for all the stuff
 
 ## General Engineering Articles
 * [Google Browser Security Handbook](https://storage.googleapis.com/google-code-attachments/browsersec/issue-8/comment-8/Google%20Browser%20Security%20Handbook.pdf)
+* [https://developers.google.com/web/fundamentals/](Google Developers Web Fundamentals)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#writingdesignpatterns)
 * [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
