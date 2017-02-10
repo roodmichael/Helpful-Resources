@@ -17,6 +17,8 @@ Helpful resources for all the stuff
 * [The Art of Agile by James Shore](http://www.jamesshore.com/Agile-Book/)
 * [A good thread on agile books](http://programmers.stackexchange.com/questions/7859/is-there-a-canonical-book-on-agile)
 * [You might not need javascript](http://youmightnotneedjs.com/)
+* [What happens when](https://github.com/alex/what-happens-when)
+* [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 
 ## ML Related
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
