@@ -24,6 +24,7 @@ Helpful resources for all the stuff
 
 ## ML Related
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
+* [Cool Datasets](http://cooldatasets.com/)
 
 ## Teams and People
 * [Agile Manifesto](http://agilemanifesto.org/)
