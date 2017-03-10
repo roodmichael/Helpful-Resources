@@ -26,6 +26,7 @@ Helpful resources for all the stuff
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * [Cool Datasets](http://cooldatasets.com/)
 * [Datazar](https://www.datazar.com/explore/)
+* [Video Lectures - Machine Learning](http://videolectures.net/Top/Computer_Science/Machine_Learning/)
 
 ## Teams and People
 * [Agile Manifesto](http://agilemanifesto.org/)
