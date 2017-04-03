@@ -27,6 +27,7 @@ Helpful resources for all the stuff
 * [Cool Datasets](http://cooldatasets.com/)
 * [Datazar](https://www.datazar.com/explore/)
 * [Video Lectures - Machine Learning](http://videolectures.net/Top/Computer_Science/Machine_Learning/)
+* [Facebook Research](https://research.fb.com/)
 
 ## Teams and People
 * [Agile Manifesto](http://agilemanifesto.org/)
