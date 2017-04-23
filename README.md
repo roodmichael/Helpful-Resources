@@ -58,6 +58,7 @@ Helpful resources for all the stuff
 * [How Do Committees Invent? by Melvin Conway](http://www.melconway.com/Home/Committees_Paper.html)
 * [Managing the Development of Large Software Systems by Dr. Winston Royce](http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)
 * [What is 'Site Reliability Engineering?' - Ben Treynor](https://landing.google.com/sre/interview/ben-treynor.html)
+* [Thinking critically about and researching algorithms - Rob Kitchen](http://futuredata.stanford.edu/classes/cs345s/handouts/kitchin.pdf)
 
 ## Career Related
 * [109 Common Data Science Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
