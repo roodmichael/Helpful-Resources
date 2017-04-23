@@ -7,6 +7,7 @@ Helpful resources for all the stuff
 * [Peopleware: Productive Projects and Teams](https://www.amazon.ca/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=sr_1_1?ie=UTF8&qid=1471745844&sr=8-1&keywords=Peopleware)
 * [Startup Engineering Management](https://www.amazon.ca/Startup-Engineering-Management-2nd-Piaw/dp/1500621064/ref=sr_1_3?ie=UTF8&qid=1471745963&sr=8-3&keywords=Startup+Engineering+Management)
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.ca/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_1?s=books&ie=UTF8&qid=1471746064&sr=1-1&keywords=quiet+the+power+of+introverts+in+a+world+that+can%27t+stop+talking)
+* [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
 
 ## General Engineering Articles
 * [Google Browser Security Handbook](https://storage.googleapis.com/google-code-attachments/browsersec/issue-8/comment-8/Google%20Browser%20Security%20Handbook.pdf)
