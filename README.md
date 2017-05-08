@@ -47,6 +47,9 @@ Helpful resources for all the stuff
 * [30 Video Lesson Course on Redux by the Author](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 
+## ELM
+* [Why ELM?](http://www.oreilly.com/web-platform/free/files/why-elm.pdf)
+
 ## Tech Talks / Courses / Podcasts
 * [Cryptography 101](https://www.crypto101.io/)
 * [Computer Science Video Courses](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)
