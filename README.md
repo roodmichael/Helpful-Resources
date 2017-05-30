@@ -22,6 +22,7 @@ Helpful resources for all the stuff
 * [What happens when](https://github.com/alex/what-happens-when)
 * [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [NASA Software](https://software.nasa.gov/)
+* [Improving a legacy codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)
 
 ## ML Related
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
