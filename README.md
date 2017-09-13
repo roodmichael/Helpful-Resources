@@ -38,6 +38,12 @@ Helpful resources for all the stuff
 * [How we set up our work at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.equ5r3dss)
 * [One Day in Kanban Land](https://bobsleanlearning.wordpress.com/2010/01/08/one-day-in-kanban-land/)
 
+## CSS
+ * [CSS Visual Reference](http://cssreference.io/#hn)
+ * [Advanced HTML CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
+ * [You Don't need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+ * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
 ## ES6 & ES7
 * [Airbnb eslint rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base/rules)
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
