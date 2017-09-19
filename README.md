@@ -40,11 +40,13 @@ Helpful resources for all the stuff
 
 ## HTML
 * [HTML5 Spec](https://html.spec.whatwg.org/multipage/)
+
 ## CSS
- * [CSS Visual Reference](http://cssreference.io/#hn)
- * [Advanced HTML CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
- * [You Don't need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
- * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+* [Shorthand Properties](https://www.w3.org/TR/CSS21/about.html#shorthand)
+* [CSS Visual Reference](http://cssreference.io/#hn)
+* [Advanced HTML CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
+* [You Don't need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
 ## ES6 & ES7
 * [Airbnb eslint rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base/rules)
