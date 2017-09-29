@@ -48,7 +48,8 @@ Helpful resources for all the stuff
 * [You Don't need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
-## ES6 & ES7
+## Javascript, ES6 & ES7
+* [JS The Right Way](http://jstherightway.org/)
 * [Airbnb eslint rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base/rules)
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
 
