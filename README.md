@@ -31,6 +31,9 @@ Helpful resources for all the stuff
 * [Datazar](https://www.datazar.com/explore/)
 * [Video Lectures - Machine Learning](http://videolectures.net/Top/Computer_Science/Machine_Learning/)
 * [Facebook Research](https://research.fb.com/)
+* [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+* [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearningTR.pdf)
+* [Hierarchically classifying documents using very few words](http://robotics.stanford.edu/users/sahami/papers-dir/ml97-hier.pdf)
 
 ## Teams and People
 * [Agile Manifesto](http://agilemanifesto.org/)
