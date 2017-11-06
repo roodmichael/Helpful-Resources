@@ -57,6 +57,7 @@ Helpful resources for all the stuff
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
 
 ## React
+* [React Bits - Patterns, Tips, Techniques](https://github.com/vasanthk/react-bits)
 * [Cloning Yelp - Tutorial](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 
 ## Redux
