@@ -55,6 +55,7 @@ Helpful resources for all the stuff
 * [JS The Right Way](http://jstherightway.org/)
 * [Airbnb eslint rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base/rules)
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
+* [Snapshot testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
 
 ## React
 * [React Bits - Patterns, Tips, Techniques](https://github.com/vasanthk/react-bits)
