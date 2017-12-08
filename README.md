@@ -50,6 +50,9 @@ Helpful resources for all the stuff
 * [Advanced HTML CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 * [You Don't need Javascript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 * [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+* [BEM](https://en.bem.info/methodology/)
+* [OOCSS](http://oocss.org/)
+* [SMACSS](https://smacss.com/)
 
 ## Javascript, ES6 & ES7
 * [JS The Right Way](http://jstherightway.org/)
