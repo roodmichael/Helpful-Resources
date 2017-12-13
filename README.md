@@ -55,6 +55,7 @@ Helpful resources for all the stuff
 * [SMACSS](https://smacss.com/)
 
 ## Javascript, ES6 & ES7
+* [The State Of JavaScript 2017](https://stateofjs.com/)
 * [JS The Right Way](http://jstherightway.org/)
 * [Airbnb eslint rules](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base/rules)
 * [The Evolution of Javascript (Netflix UI Engineering Series)](https://www.youtube.com/watch?v=DqMFX91ToLw)
