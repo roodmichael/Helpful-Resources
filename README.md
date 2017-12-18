@@ -41,6 +41,9 @@ Helpful resources for all the stuff
 * [How we set up our work at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.equ5r3dss)
 * [One Day in Kanban Land](https://bobsleanlearning.wordpress.com/2010/01/08/one-day-in-kanban-land/)
 
+## Severless
+* [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model)
+
 ## HTML
 * [HTML5 Spec](https://html.spec.whatwg.org/multipage/)
 
