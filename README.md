@@ -25,7 +25,7 @@ Helpful resources for all the stuff
 * [NASA Software](https://software.nasa.gov/)
 * [Improving a legacy codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)
 
-## ML Related
+## ML, Probability, and Statistics
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * [Cool Datasets](http://cooldatasets.com/)
 * [Datazar](https://www.datazar.com/explore/)
@@ -34,6 +34,7 @@ Helpful resources for all the stuff
 * [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearningTR.pdf)
 * [Hierarchically classifying documents using very few words](http://robotics.stanford.edu/users/sahami/papers-dir/ml97-hier.pdf)
+* [Probability and Statistics](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
 
 ## Teams and People
 * [Agile Manifesto](http://agilemanifesto.org/)
