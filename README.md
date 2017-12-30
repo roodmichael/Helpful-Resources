@@ -34,7 +34,7 @@ Helpful resources for all the stuff
 * [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearningTR.pdf)
 * [Hierarchically classifying documents using very few words](http://robotics.stanford.edu/users/sahami/papers-dir/ml97-hier.pdf)
-* [Probability and Statistics](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
+* [Probability and Statistics Cookbook](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
 
 ## Teams and People
 * [Agile Manifesto](http://agilemanifesto.org/)
