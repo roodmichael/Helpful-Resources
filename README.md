@@ -10,6 +10,7 @@ Helpful resources for all the stuff
 * [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
 
 ## General Engineering Articles
+* [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
 * [Google Browser Security Handbook](https://storage.googleapis.com/google-code-attachments/browsersec/issue-8/comment-8/Google%20Browser%20Security%20Handbook.pdf)
 * [Google Developers Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Google API Design Guide](https://cloud.google.com/apis/design/)
