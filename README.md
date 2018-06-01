@@ -48,6 +48,7 @@ Helpful resources for all the stuff
 
 ## HTML
 * [HTML5 Spec](https://html.spec.whatwg.org/multipage/)
+* [Essential Image Optimization](https://images.guide/)
 
 ## CSS
 * [Shorthand Properties](https://www.w3.org/TR/CSS21/about.html#shorthand)
