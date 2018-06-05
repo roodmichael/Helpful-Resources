@@ -42,6 +42,7 @@ Helpful resources for all the stuff
 * [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0)
 * [How we set up our work at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.equ5r3dss)
 * [One Day in Kanban Land](https://bobsleanlearning.wordpress.com/2010/01/08/one-day-in-kanban-land/)
+* [How to be a Manager](https://getweeklyupdate.com/manager-guide)
 
 ## Severless
 * [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model)
