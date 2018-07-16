@@ -25,6 +25,7 @@ Helpful resources for all the stuff
 * [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [NASA Software](https://software.nasa.gov/)
 * [Improving a legacy codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)
+* [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## ML, Probability, and Statistics
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
