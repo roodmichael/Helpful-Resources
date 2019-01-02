@@ -100,6 +100,8 @@ Helpful resources for all the stuff
 * [Thinking critically about and researching algorithms - Rob Kitchen](http://futuredata.stanford.edu/classes/cs345s/handouts/kitchin.pdf)
 
 ## Career Related
+* [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Front-end Interview Handbook](https://github.com/yangshun/front-end-interview-handbook)
 * [109 Common Data Science Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
 * [Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
 * [Coding Without Rules](https://codewithoutrules.com/)
