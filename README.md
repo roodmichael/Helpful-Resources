@@ -70,6 +70,7 @@ Helpful resources for all the stuff
 * [Snapshot testing](https://facebook.github.io/jest/docs/en/snapshot-testing.html)
 * [The Cost of Javascript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [How Javascript Works](https://blog.sessionstack.com/tagged/tutorial)
+* [Introduction to Reactive Programming (Video Series)](https://egghead.io/courses/introduction-to-reactive-programming)
 
 ## React
 * [React Bits - Patterns, Tips, Techniques](https://github.com/vasanthk/react-bits)
