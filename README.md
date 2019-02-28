@@ -75,6 +75,7 @@ Helpful resources for all the stuff
 ## React
 * [React Bits - Patterns, Tips, Techniques](https://github.com/vasanthk/react-bits)
 * [Cloning Yelp - Tutorial](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
+* [React 16 Egghead Series](https://egghead.io/lessons/react-error-handling-using-error-boundaries-in-react-16)
 
 ## Redux
 * [30 Video Lesson Course on Redux by the Author](https://egghead.io/series/getting-started-with-redux)
