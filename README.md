@@ -2,6 +2,9 @@
 Helpful resources for all the stuff
 
 ## General Engineering Books
+* [Designing the User Interface: Strategies for Effective Human-Computer Interaction (6th Edition)](https://www.amazon.ca/Designing-User-Interface-Human-Computer-Interaction/dp/013438038X/ref=sr_1_1?keywords=Designing+the+User+Interface&qid=1551374149&s=gateway&sr=8-1)
+* [Introduction to Algorithms](https://www.amazon.ca/Introduction-Algorithms-Press-Thomas-Cormen-ebook/dp/B007CNRCAO/ref=sr_1_1?keywords=Introduction+to+Algorithms+%28The+MIT+Press%29&qid=1551374261&s=gateway&sr=8-1-spell)
+* [The Essence of Software Engineering](https://www.amazon.com/gp/product/B07DSCXWN5/ref=as_li_tl?ie=UTF8&tag=zeroequalsfal-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DSCXWN5&linkId=96759aa485278a655fd076b40a3e21b6)
 * [Debugging Teams: Better Productivity Through Collaboration](https://www.amazon.ca/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_1?s=books&ie=UTF8&qid=1471746064&sr=1-1&keywords=quiet+the+power+of+introverts+in+a+world+that+can%27t+stop+talking)
 * [Toyota Production System: Beyond Large-Scale Production](https://www.amazon.com/gp/product/0915299143?ie=UTF8&tag=timofitz-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0915299143)
 * [Peopleware: Productive Projects and Teams](https://www.amazon.ca/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=sr_1_1?ie=UTF8&qid=1471745844&sr=8-1&keywords=Peopleware)
