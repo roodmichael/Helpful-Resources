@@ -31,6 +31,7 @@ Helpful resources for all the stuff
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## ML, Probability, and Statistics
+* [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 * [Learning Reinforcement Learning](http://www.wildml.com/2016/10/learning-reinforcement-learning/)
 * [Cool Datasets](http://cooldatasets.com/)
 * [Datazar](https://www.datazar.com/explore/)
