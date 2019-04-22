@@ -2,6 +2,7 @@
 Helpful resources for all the stuff
 
 ## General Engineering Books
+* [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 * [Designing the User Interface: Strategies for Effective Human-Computer Interaction (6th Edition)](https://www.amazon.ca/Designing-User-Interface-Human-Computer-Interaction/dp/013438038X/ref=sr_1_1?keywords=Designing+the+User+Interface&qid=1551374149&s=gateway&sr=8-1)
 * [Introduction to Algorithms](https://www.amazon.ca/Introduction-Algorithms-Press-Thomas-Cormen-ebook/dp/B007CNRCAO/ref=sr_1_1?keywords=Introduction+to+Algorithms+%28The+MIT+Press%29&qid=1551374261&s=gateway&sr=8-1-spell)
 * [The Essence of Software Engineering](https://www.amazon.com/gp/product/B07DSCXWN5/ref=as_li_tl?ie=UTF8&tag=zeroequalsfal-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DSCXWN5&linkId=96759aa485278a655fd076b40a3e21b6)
