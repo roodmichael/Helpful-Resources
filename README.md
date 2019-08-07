@@ -30,6 +30,7 @@ Helpful resources for all the stuff
 * [NASA Software](https://software.nasa.gov/)
 * [Improving a legacy codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [JS Data Structures and Algorithms](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
 ## ML, Probability, and Statistics
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
