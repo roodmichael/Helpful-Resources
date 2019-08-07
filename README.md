@@ -12,6 +12,7 @@ Helpful resources for all the stuff
 * [Startup Engineering Management](https://www.amazon.ca/Startup-Engineering-Management-2nd-Piaw/dp/1500621064/ref=sr_1_3?ie=UTF8&qid=1471745963&sr=8-3&keywords=Startup+Engineering+Management)
 * [Quiet: The Power of Introverts in a World That Can't Stop Talking](https://www.amazon.ca/Quiet-Power-Introverts-World-Talking/dp/0307352153/ref=sr_1_1?s=books&ie=UTF8&qid=1471746064&sr=1-1&keywords=quiet+the+power+of+introverts+in+a+world+that+can%27t+stop+talking)
 * [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
+* [JS Data Structures and Algorithms](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
 ## General Engineering Articles
 * [Competitive Programmer's Handbook](https://cses.fi/book.pdf)
@@ -30,7 +31,6 @@ Helpful resources for all the stuff
 * [NASA Software](https://software.nasa.gov/)
 * [Improving a legacy codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
-* [JS Data Structures and Algorithms](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 
 ## ML, Probability, and Statistics
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
