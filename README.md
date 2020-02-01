@@ -31,6 +31,9 @@ Helpful resources for all the stuff
 * [NASA Software](https://software.nasa.gov/)
 * [Improving a legacy codebase](https://jacquesmattheij.com/improving-a-legacy-codebase)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+* [Building a Better Ops Runbook](https://medium.com/@shawnstafford/ops-runbook-16017fa78733)
+* [Runbook Template](https://github.com/CaitieM20/Talks/blob/master/TacklingAlertFatigue/runbook.md)
+* [Why SRE Documents Matter](https://queue.acm.org/detail.cfm?id=3283589)
 
 ## ML, Probability, and Statistics
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
