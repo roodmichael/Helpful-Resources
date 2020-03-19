@@ -70,6 +70,7 @@ Helpful resources for all the stuff
 * [BEM](https://en.bem.info/methodology/)
 * [OOCSS](http://oocss.org/)
 * [SMACSS](https://smacss.com/)
+* [CSS Zen Garden](http://www.csszengarden.com/)
 
 ## Javascript, ES6 & ES7
 * [The State Of JavaScript 2017](https://stateofjs.com/)
