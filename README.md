@@ -99,6 +99,7 @@ Helpful resources for all the stuff
 
 ## Tech Talks / Courses / Podcasts
 * [Cryptography 101](https://www.crypto101.io/)
+* [WebDev.learn](https://web.dev/learn/)
 * [Computer Science Video Courses](https://github.com/Developer-Y/cs-video-courses/blob/master/README.md)
 * [Javascript Jabber](https://devchat.tv/js-jabber)
 
