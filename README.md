@@ -34,6 +34,7 @@ Helpful resources for all the stuff
 * [Building a Better Ops Runbook](https://medium.com/@shawnstafford/ops-runbook-16017fa78733)
 * [Runbook Template](https://github.com/CaitieM20/Talks/blob/master/TacklingAlertFatigue/runbook.md)
 * [Why SRE Documents Matter](https://queue.acm.org/detail.cfm?id=3283589)
+* [OWASP Top 10](https://owasp.org/Top10/)
 
 ## ML, Probability, and Statistics
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
